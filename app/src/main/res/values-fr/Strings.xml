@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">devoirs1</string>
+    <string name="todo">TODO</string>
+    <string name="button">Montez</string>
+    <string name="titulo_app">Bienvenue</string>
+</resources>

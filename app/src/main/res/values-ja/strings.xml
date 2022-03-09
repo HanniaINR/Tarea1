@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">宿題1</string>
+    <string name="todo">TODO</string>
+    <string name="button">入れ</string>
+    <string name="titulo_app">いらっしゃいませ</string>
+</resources>
